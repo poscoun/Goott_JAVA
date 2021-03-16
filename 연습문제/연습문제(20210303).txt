@@ -1,0 +1,6 @@
+1. view : cal.html
+          : 사용자가 A, B 값을 입력한 후 한가지 연산식(사칙연산)을 선택(radio button)하여 
+           버튼을 누르면 그 결과를 웹 브라우저에 출력
+
+2. 주소 : cal.do
+3. 서블릿 : ServletEx05.java

@@ -1,0 +1,8 @@
+목적: 운영자가 현재 사이의 회원정보를 확인
+------------------------------------------------
+서블릿 주소 : list.do - CustomerList.java
+model : CustomerListAction - 전체회원정보를 구하기
+         : data는 "list"  이름으로 담아두고
+         : 주소 customerList.jsp
+
+웹브라우저에 테이블로 출력

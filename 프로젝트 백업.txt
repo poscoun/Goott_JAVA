@@ -1,0 +1,18 @@
+export
+
+general
+archive file
+
+next
+
+바탕화면
+gott_backup.zip
+
+finish
+
+Existing Projects into Workspace
+
+bin,src 폴더에서 선택
+
+옵션
+copy 선택

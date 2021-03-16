@@ -1,0 +1,8 @@
++ mybatis2 (java project)
+ - config 1) db.properties
+             2) SqlMapConfig.xml
+ - mapper : Mapper.xml
+ - vo : EmpVO.java (empno, ename, sal, deptno)
+
+ - excute : EmpMain.java
+               전체 사원의 empno, ename, sal, deptno 를 출력하세요

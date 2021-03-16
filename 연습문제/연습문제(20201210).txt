@@ -1,0 +1,21 @@
+package : exam_abstract
+1. 추상클래스?   
+
+2. 다형성?
+
+3. Interface?
+
+4. 
+
+1) SiegeTank  클래스를 작성하시오
+
+2) TestStarCraft 클래스 메인 메서드에서 시즈탱크 객체와 마린객체를 생성하고
+시즈탱크가 다른 시즈탱크과  마린을 공격할수 있도록 코드를 수정하세요
+
+5 
+1) Person 클래스를  작성하세요
+
+2).  Person 클래스를 상속 받은 SuperMan 클래스를 작성하세요
+
+3)  Person클래스에 Flyable 인터페이스를 구현하도록 작성하세요
+4)  TestPerson 클래스를 작성하고 방금 만든 SuperMan 객체를 생성하여 비행할수 있도록 테스트해보세요

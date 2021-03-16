@@ -1,0 +1,13 @@
+https://www.eclipse.org/
+download
+download 패키지
+more downloads 
+6월꺼 다운
+Eclipse IDE for Enterprise Java Developers
+운영체제에 맞게 다운
+>> Select Another Mirror
+한국꺼 다운
+C:\Users\goott1\java-workspace
+window
+Preferences - enc - workspace - other : UTF-8 한글설정
+file - new - project - java Project 

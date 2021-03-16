@@ -1,0 +1,7 @@
++ mybatis_web project
+-----------------------------------
+mapper : empMapper.xml - 전체조회/개별조회  (empno, ename, sal, deptno)
+EmpVo.java
+EmpDAO.java
+empList.jsp  - 전체 사원 조회
+empOne.jsp - 개별 사원 조회 (사번)
